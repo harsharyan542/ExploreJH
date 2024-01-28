@@ -10,5 +10,5 @@ I undertook a freelancing opportunity for a renowned travel vlogger and influenc
 
 I created and developed a user-friendly interface with sections devoted to exploring areas and exhibiting well-known locations using a stack of React, and JavaScript. I also included extra services like recommendations for restaurants, travel deals, and vehicle rentals.
 
-Skills: HTML · Cascading Style Sheets (CSS) · JavaScript · React.js
+Skills: HTML · Cascading Style Sheet (CSS) · JavaScript · React.js
 
